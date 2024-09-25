@@ -1,1 +1,3 @@
-# Portfolio
+# Biography
+Dr. Yang Song is an Assistant Professor in the Department of Computer Science at University of North Carolina Wilmington. He joined the department in August 2017. Dr. Song received his Ph.D. in Computer Science from the NC State University, M.S. in Computer Science and Technology from Beijing University of Posts and Telecommunications, China, and B.S. in Computer Science and Technology from Beijing Institute of Technology, China. His specialty is applied machine learning and data mining. Dr. Song research primarily focuses on applying machine learning and data mining methods to improve human learning and exploring new machine learning and data mining challenges posed by learning and social science.
+
